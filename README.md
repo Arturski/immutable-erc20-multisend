@@ -31,9 +31,6 @@ BLOCKSCOUT_API_KEY_TESTNET=
 
 # private key for the deployer account
 PRIVATE_KEY=
-
-# operator allowlist contract address on testnet
-OPERATOR_ALLOWLIST=0x02Ada708Db37470F6707075Cbdc7bD295d30B25E
 ```
 
 ## Smart Contract: MultiSend
