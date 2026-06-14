@@ -1,7 +1,7 @@
 {
-  "name": "@imtbl/zkevm-boilerplate",
+  "name": "immutable-erc20-multisend",
   "version": "1.0.0",
-  "description": "Boilerplate Hardhat project for EVM smart contract development in Solidity",
+  "description": "Batch ERC20 token distribution on Immutable zkEVM via a MultiSend contract (Hardhat)",
   "main": "",
   "scripts": {
     "clean": "npx hardhat clean",
@@ -9,7 +9,7 @@
     "compile": "npx hardhat compile",
     "deploy": "npx hardhat run scripts/deploy.ts --network immutableZkevmTestnet"
   },
-  "author": "Immutable",
+  "author": "Arturski",
   "license": "MIT",
   "dependencies": {
     "@imtbl/contracts": "2.2.7",
